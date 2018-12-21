@@ -1,0 +1,12 @@
+.home-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center; }
+  .home-body input {
+    margin-bottom: 20px; }
+  .home-body button {
+    margin-bottom: 20px; }
+
+.rhyme-wrap tbody:nth-child(even) {
+  background: lightgray; }
